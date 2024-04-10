@@ -1,0 +1,417 @@
+html {
+  font-size: 37.5px;
+}
+
+.page {
+  position: relative;
+  width: 51.2rem;
+  height: 28.8rem;
+  overflow: hidden;
+}
+
+.group_1 {
+  width: 51.2rem;
+  height: 28.8rem;
+  background: url(./images/FigmaDDSSlicePNG19a8ec29f19bd879e65039e2afe4d005.png)
+    100% no-repeat;
+  background-size: 100% 100%;
+}
+
+.group_2 {
+  width: 51.2rem;
+  height: 2.134rem;
+  justify-content: flex-center;
+}
+
+.block_1 {
+  background-color: rgba(217, 217, 217, 1);
+  border-radius: 50%;
+  width: 1.28rem;
+  height: 1.28rem;
+  margin: 0.427rem 0 0 9.6rem;
+}
+
+.text_1 {
+  width: 4.347rem;
+  height: 0.8rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.533rem;
+  font-family: Poppins-Bold Italic;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+  margin: 0.667rem 0 0 0.32rem;
+}
+
+.text_2 {
+  width: 1.227rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.426rem;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.427rem;
+  margin: 0.747rem 0 0 18.027rem;
+}
+
+.text_3 {
+  width: 2.054rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(35, 112, 254, 1);
+  font-size: 0.426rem;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.427rem;
+  margin: 0.747rem 0 0 1.6rem;
+}
+
+.label_1 {
+  width: 0.64rem;
+  height: 0.64rem;
+  margin: 0.747rem 0 0 0.107rem;
+}
+
+.text_4 {
+  width: 0.8rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.426rem;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.427rem;
+  margin: 0.747rem 9.6rem 0 1.6rem;
+}
+
+.group_8 {
+  position: relative;
+  width: 51.2rem;
+  height: 22.267rem;
+}
+
+.text_5 {
+  width: 20.934rem;
+  height: 1.6rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.96rem;
+  font-family: Source Han Sans CN-Bold;
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 1.6rem;
+  margin: 2.667rem 0 0 15.147rem;
+}
+
+.text_6 {
+  width: 10.4rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.426rem;
+  letter-spacing: 4px;
+  font-family: Source Han Sans CN-Medium;
+  font-weight: 500;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.427rem;
+  margin: 0.64rem 0 0 20.4rem;
+}
+
+.box_3 {
+  width: 32rem;
+  height: 3.467rem;
+  margin: 4.987rem 0 8.267rem 9.6rem;
+}
+
+.box_1 {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  width: 13.334rem;
+  height: 3.467rem;
+  border: 1px gradient;
+}
+
+.image_1 {
+  width: 2.187rem;
+  height: 2.187rem;
+  margin: 0.64rem 0 0 0.64rem;
+}
+
+.text-group_3 {
+  width: 8.854rem;
+  height: 2.187rem;
+  margin: 0.64rem 1.014rem 0 0.64rem;
+}
+
+.text_7 {
+  width: 8.214rem;
+  height: 0.8rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.533rem;
+  font-family: Source Han Sans CN-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+}
+
+.text_8 {
+  width: 8.854rem;
+  height: 1.28rem;
+  overflow-wrap: break-word;
+  color: rgba(180, 180, 180, 1);
+  font-size: 0.426rem;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  margin-top: 0.107rem;
+}
+
+.box_2 {
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 16px;
+  position: relative;
+  width: 13.334rem;
+  height: 3.467rem;
+}
+
+.image_2 {
+  width: 2.187rem;
+  height: 2.187rem;
+  margin: 0.64rem 0 0 0.64rem;
+}
+
+.text-wrapper_3 {
+  width: 8.854rem;
+  height: 2.187rem;
+  margin: 0.64rem 1.014rem 0 0.64rem;
+}
+
+.text_9 {
+  width: 7.894rem;
+  height: 0.8rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.533rem;
+  font-family: Source Han Sans CN-Medium;
+  font-weight: 500;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.534rem;
+}
+
+.text_10 {
+  width: 8.854rem;
+  height: 1.28rem;
+  overflow-wrap: break-word;
+  color: rgba(180, 180, 180, 1);
+  font-size: 0.426rem;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  margin-top: 0.107rem;
+}
+
+.text-wrapper_4 {
+  background-color: rgba(0, 0, 0, 0.8);
+  border-radius: 16px;
+  height: 3.467rem;
+  width: 13.334rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.text_11 {
+  width: 4.054rem;
+  height: 0.64rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.426rem;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.427rem;
+  margin: 1.414rem 0 0 4.64rem;
+}
+
+.group_5 {
+  box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.06);
+  background-color: rgba(255, 255, 255, 1);
+  border-radius: 16px;
+  height: 4.32rem;
+  width: 5.894rem;
+  position: absolute;
+  left: 33.307rem;
+  top: 0.054rem;
+  justify-content: flex-center;
+}
+
+.group_9 {
+  width: 4.08rem;
+  height: 0.96rem;
+  margin: 0.8rem 0 0 0.534rem;
+}
+
+.label_2 {
+  width: 0.96rem;
+  height: 0.96rem;
+}
+
+.text_12 {
+  width: 2.8rem;
+  height: 0.56rem;
+  overflow-wrap: break-word;
+  color: rgba(35, 112, 254, 1);
+  font-size: 0.373rem;
+  font-family: Source Han Sans CN-Normal;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.374rem;
+  margin-top: 0.214rem;
+}
+
+.group_10 {
+  width: 4.08rem;
+  height: 0.96rem;
+  margin: 0.8rem 0 0.8rem 0.534rem;
+}
+
+.label_3 {
+  width: 0.96rem;
+  height: 0.96rem;
+}
+
+.text-wrapper_5 {
+  width: 2.8rem;
+  height: 0.96rem;
+}
+
+.text_13 {
+  width: 2.56rem;
+  height: 0.56rem;
+  overflow-wrap: break-word;
+  color: rgba(51, 51, 51, 1);
+  font-size: 0.373rem;
+  font-family: Source Han Sans CN-Normal;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.374rem;
+}
+
+.text_14 {
+  width: 2.8rem;
+  height: 0.454rem;
+  overflow-wrap: break-word;
+  color: rgba(179, 179, 179, 1);
+  font-size: 0.293rem;
+  font-family: Source Han Sans CN-Regular;
+  font-weight: NaN;
+  text-align: left;
+  white-space: nowrap;
+  line-height: 0.294rem;
+  margin-top: -0.053rem;
+}
+
+.group_6 {
+  background-color: rgba(0, 17, 52, 1);
+  width: 51.2rem;
+  height: 4.427rem;
+  margin-top: -0.026rem;
+  justify-content: flex-center;
+}
+
+.text_15 {
+  width: 8.854rem;
+  height: 1.44rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.96rem;
+  font-family: Source Han Sans CN-Bold;
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.96rem;
+  margin: 1.334rem 0 0 9.6rem;
+}
+
+.text_16 {
+  width: 2.24rem;
+  height: 0.56rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.373rem;
+  font-family: Source Han Sans CN-Bold;
+  font-weight: 700;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.374rem;
+  margin: 1.334rem 0 0 10.507rem;
+}
+
+.box_4 {
+  width: 10.08rem;
+  height: 1.76rem;
+  margin: 1.334rem 9.6rem 0 0.32rem;
+}
+
+.text-wrapper_6 {
+  width: 8.8rem;
+  height: 0.56rem;
+  margin-left: 1.28rem;
+}
+
+.text_17 {
+  width: 2.374rem;
+  height: 0.56rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.373rem;
+  font-family: Source Han Sans CN-Normal;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.374rem;
+}
+
+.text_18 {
+  width: 4.827rem;
+  height: 0.56rem;
+  overflow-wrap: break-word;
+  color: rgba(255, 255, 255, 1);
+  font-size: 0.373rem;
+  font-family: Source Han Sans CN-Normal;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.374rem;
+}
+
+.text_19 {
+  width: 10.08rem;
+  height: 0.56rem;
+  overflow-wrap: break-word;
+  color: rgba(152, 152, 152, 1);
+  font-size: 0.373rem;
+  font-family: Source Han Sans CN-Normal;
+  font-weight: NaN;
+  text-align: center;
+  white-space: nowrap;
+  line-height: 0.374rem;
+  margin-top: 0.64rem;
+}
