@@ -82,7 +82,7 @@ body{
 	transition: all 0.3s ease-out;
 }
 .header-bottom{
-	background:url("../images/banner-bg.jpg") no-repeat ;
+	background:url("../images/home_bg.png") no-repeat ;
 	background-position:center;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -419,8 +419,7 @@ body{
 }
 .footer-bottom{
 	padding:2em 0;
-	background:#f9f9f9;
-	border-top:1px solid #EBEBEB;
+	background-color: rgba(0, 17, 52, 1);
 }
 .footer-btm-left {
   float:left;	
