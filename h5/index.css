@@ -27,7 +27,7 @@
   position: fixed;
   box-sizing: border-box;
   background-color: rgba(0, 17, 52, 1);
-  z-index:999;
+  z-index: 999;
 }
 
 .header {
@@ -92,10 +92,12 @@
   color: rgba(35, 112, 254, 1);
   font-weight: bold
 }
+
 .text_3:hover {
   color: rgba(35, 112, 254, 1);
   font-weight: bold
 }
+
 .text_4:hover {
   color: rgba(35, 112, 254, 1);
   font-weight: bold
@@ -307,9 +309,11 @@
   height: 1.88vw;
   margin: 1.56vw 0 0 1.04vw;
 }
-.group_9:hover .text_12{
+
+.group_9:hover .text_12 {
   color: rgba(35, 112, 254, 1);
 }
+
 .label_2 {
   width: 1.88vw;
   height: 1.88vw;
@@ -319,7 +323,7 @@
   width: 5.47vw;
   height: 1.1vw;
   overflow-wrap: break-word;
-  color:  rgba(51, 51, 51, 1);
+  color: rgba(51, 51, 51, 1);
   font-size: 0.72vw;
   font-family: Source Han Sans CN-Normal;
   font-weight: NaN;
@@ -418,9 +422,11 @@
   line-height: 0.73vw;
   margin: 2.6vw 0 0 20.52vw;
 }
+
 .text_16:hover {
   font-weight: bold
 }
+
 .box_4 {
   width: 19.69vw;
   height: 3.44vw;
@@ -445,9 +451,11 @@
   white-space: nowrap;
   line-height: 0.73vw;
 }
+
 .text_17:hover {
   font-weight: bold
 }
+
 .text_18 {
   width: 9.43vw;
   height: 1.1vw;
@@ -501,12 +509,13 @@
 }
 
 .roku_text_19 {
-  width: 26.62vw;
+  width: 40vw;
   height: 3.75vw;
   overflow-wrap: break-word;
+  word-break: break-all;
+  hyphens: auto;
   color: rgba(92, 102, 119, 1);
   font-size: 0.83vw;
-  letter-spacing: 4px;
   font-family: Source Han Sans CN-Medium;
   font-weight: 500;
   text-align: center;
@@ -527,6 +536,7 @@
   color: rgba(33, 112, 253, 1);
   font-size: 1.04vw;
   font-family: Source Han Sans CN-Medium;
+  margin-bottom: 1.875vw;
   font-weight: 500;
   text-align: center;
   white-space: nowrap;
@@ -540,7 +550,8 @@
   position: relative;
   margin: 5.2vw auto 0 auto;
   --swiper-theme-color: #ff6600;
-  --swiper-pagination-color: #00ff33;/* 两种都可以 */
+  --swiper-pagination-color: #00ff33;
+  /* 两种都可以 */
 }
 
 .swiper-slide {
@@ -554,31 +565,38 @@
 }
 
 .swiper-slide img {
-  width: 13.03vw; 
+  width: 13.03vw;
   height: 25.625vw;
   justify-content: center;
 }
-.swiper-slide.prev span{
+
+.swiper-slide.prev span {
   display: none;
 }
-.swiper-slide.next span{
+
+.swiper-slide.next span {
   display: none;
 }
-.swiper-slide.prev img{
-  width: 13.03vw; 
-  height: 25.63vw; 
+
+.swiper-slide.prev img {
+  width: 13.03vw;
+  height: 25.63vw;
 }
-.swiper-slide.next img{
-  width: 13.03vw; 
-  height: 25.63vw; 
+
+.swiper-slide.next img {
+  width: 13.03vw;
+  height: 25.63vw;
 }
-.swiper-slide-active img{
+
+.swiper-slide-active img {
   width: 15.625vw;
   height: 30.625vw;
 }
-.swiper-slide-active span{
+
+.swiper-slide-active span {
   display: block;
 }
+
 /* .swiper-slide.prev, .swiper-slide.next {
   width: 13.03vw; 
   height: 25.63vw; 
@@ -649,7 +667,7 @@
   width: 100%;
   height: 53.91vw;
   position: sticky;
-  margin: 15vw 0 0 0 ;
+  margin: 15vw 0 0 0;
 }
 
 .roku_image_1 {
