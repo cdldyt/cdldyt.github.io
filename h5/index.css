@@ -171,7 +171,7 @@
 .box_3 {
   width: 62.5vw;
   height: 6.78vw;
-  margin: 9.73vw 0 16.14vw 18.75vw;
+  margin: 4.73vw auto 0 auto;
   align-items: center;
   justify-content: center;
 }
@@ -527,7 +527,7 @@
 .roku_image_5 {
   width: 10.58vw;
   height: 3.34vw;
-  margin: 5.12vw 0 0 44.73vw;
+  margin: 3.12vw auto 0 auto;
 }
 
 .roku_text_20 {

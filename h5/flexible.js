@@ -83,8 +83,8 @@ function showQRCode() {
   var popup = document.getElementById('popup');
   var listener = function (event) {
     // 获取鼠标的当前位置
-    var mouseX = event.clientX;
-    var mouseY = event.clientY;
+    var mouseX = event.clientX+10;
+    var mouseY = event.clientY+10;
 
     // 设置弹窗的位置
     popup.style.left = mouseX + 'px';
