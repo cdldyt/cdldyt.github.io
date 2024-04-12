@@ -18,7 +18,12 @@ function redirectToHome() {
     window.location.href = "../index.html";
   }
 }
-
+function hrefToTermsOfUse(){
+  window.location.href="../Terms_of_service.html"
+}
+function hrefToPrivacyPolicy(){
+  window.location.href="../Privacy_Policy.html"
+}
 function hrefToRoku() {
   window.location.href = "../index.html?sccrollToRoku=true"
 }

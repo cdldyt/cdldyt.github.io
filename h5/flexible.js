@@ -64,6 +64,13 @@ function scrollToRoku() {
 function hrefToRokuFaq() {
   window.location.href = "./lanhu_rokutvfaq/roku_faq.html"
 }
+
+function hrefToTermsOfUse(){
+  window.location.href="./Terms_of_service.html"
+}
+function hrefToPrivacyPolicy(){
+  window.location.href="./Privacy_Policy.html"
+}
 function scrollToTop() {
   var targetElement = document.getElementById('group_1');
   targetElement.scrollIntoView({ behavior: 'smooth' });
