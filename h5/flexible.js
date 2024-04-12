@@ -62,17 +62,17 @@ function scrollToRoku() {
   });
 }
 function hrefToRokuFaq() {
-  window.location.href = "./lanhu_rokutvfaq/roku_faq.html"
+  window.location.href = "./faq/index.html"
 }
 function hrefToGooglePlay(){
   // window.location.href="https://play.google.com/store/apps/details?id=ldyt.online.rokutv"
   window.location.href="https://play.google.com/store/apps"
 }
 function hrefToTermsOfUse(){
-  window.location.href="./Terms_of_service.html"
+  window.location.href="./termsofservice/termsofservice.html"
 }
 function hrefToPrivacyPolicy(){
-  window.location.href="./Privacy_Policy.html"
+  window.location.href="./privacypolicy/privacypolicy.html"
 }
 function scrollToTop() {
   var targetElement = document.getElementById('group_1');
