@@ -175,7 +175,9 @@
   align-items: center;
   justify-content: center;
 }
-
+.box_3:hover {
+  cursor: pointer;
+}
 .box_1 {
   background-color: rgba(255, 255, 255, 0.2);
   border-radius: 16px;

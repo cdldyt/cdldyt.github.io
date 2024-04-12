@@ -25,7 +25,7 @@ window.onload = function () {
   var qrcode = new QRCode("qrcode");
 
   // 设置二维码内容为 URL 地址
-  var url = "https://example.com";
+  var url = "https://play.google.com/store/apps";
   qrcode.makeCode(url);
   swiper = new Swiper('#swiper', {
     slidesPerView: 3,
@@ -64,7 +64,10 @@ function scrollToRoku() {
 function hrefToRokuFaq() {
   window.location.href = "./lanhu_rokutvfaq/roku_faq.html"
 }
-
+function hrefToGooglePlay(){
+  // window.location.href="https://play.google.com/store/apps/details?id=ldyt.online.rokutv"
+  window.location.href="https://play.google.com/store/apps"
+}
 function hrefToTermsOfUse(){
   window.location.href="./Terms_of_service.html"
 }
